@@ -1,0 +1,113 @@
+
+body{
+  background-color: #FFEBCD;
+}
+h1{
+  font-family: 'Parisienne', cursive;
+  font-size: 150px;
+  color: #DB7093 ;
+  margin-top: 0;
+  margin-right: 0;
+  padding-top: 0;
+  padding-right: 0;
+}
+h2{
+  color: #BC8F8F;
+}
+h3{
+  font-family: 'Architects Daughter', cursive;
+  color: #A52A2A;
+  height: 100px;
+  text-align: center;
+}
+h4{
+  color: #DB7093 ;
+  font-size: 30px;
+  font-family: 'Sriracha', cursive;
+
+}
+p{
+  color: #BC8F8F;
+  font-size: 30px;
+  font-family: 'Sriracha', cursive;
+}
+.head{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 150px ;
+}
+
+.head4{
+  margin-top: 0;
+  margin-left: 200px ;
+  margin-bottom: 150px;
+}
+.navHappy{
+  margin: 0 0 100px 800px;
+}
+.about{
+  color: #BC8F8F;
+  font-size: 20px;
+  font-family: 'Sriracha', cursive;
+  margin: 0 50px 100px 100px;
+}
+.youth{
+  color: #BC8F8F;
+  font-size: 20px;
+  font-family: 'Sriracha', cursive;
+  /* text-align: left; */
+  margin:100px 0 100px 100px;
+}
+.college{
+  color: #BC8F8F;
+  font-size: 20px;
+  font-family: 'Sriracha', cursive;
+  /* text-align: right; */
+  margin:0 0 100px 100px;
+}
+.friends{
+  color: #BC8F8F;
+  font-size: 20px;
+  font-family: 'Sriracha', cursive;
+  /* text-align: left; */
+  margin:0 0 100px 100px;
+}
+.crush{
+  color: #BC8F8F;
+  font-size: 20px;
+  font-family: 'Sriracha', cursive;
+  /* text-align: right; */
+  margin:0 0 100px 100px;
+}
+.person{
+  color: #BC8F8F;
+  font-size: 20px;
+  font-family: 'Sriracha', cursive;
+  /* text-align: left; */
+  margin:0 0 100px 100px;
+  /* width: 600px; */
+}
+img{
+  border-radius: 50%;
+  height:250px;
+  width: 250px;
+  /* margin: 0 100px auto 0; */
+}
+.shivani{
+  margin-left: 100px;
+}
+.heading4{
+  margin: 50px 0 50px 0;
+}
+.more{
+  margin-bottom: 50px;
+}
+.note{
+  text-align: center;
+  margin: 100px 0 150px 250px;
+  width: 700px;
+}
+.bday{
+  
+  font-weight:  bold;
+}
